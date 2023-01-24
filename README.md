@@ -21,5 +21,10 @@ This project's icon was provided courtesy of 'Those Icons' via [flaticon.com](ht
 This project utilizes an API from [rapidapi.com](https://rapidapi.com/hub) for the search page.
 
 ### How to Use
-The purpose of this repo is to facilitate live coding practice. There is a video that is associated. [recording of video](https://youtu.be/OvFFw5T0-0g)
+The purpose of this repo is to facilitate live coding practice. There is a video that is associated. [Link to recording of video](https://youtu.be/OvFFw5T0-0g)
 
+Challenge 1 (Hard)
+Add a new controlled form on your search new recipes page that takes in a max number of minutes and filters the new recipes based on that constraint.
+
+Challenge 2 (Very Hard)
+Instead of forcing people to use an input with minutes create a drop down select tool that allows people to choose the number of clocks they are willing to put in. Choosing the maximum amount will show all recipes.
