@@ -1,0 +1,128 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Sausage, Tomato and Mascarpone Pasta",
+      "image": "https://media-cdn.greatbritishchefs.com/media/axrglqwd/18-mar-selects-14.jpg?mode=crop&width=768&height=512",
+      "status": "repeat",
+      "effort": 2,
+      "meal": "dinner",
+      "notes": [
+        "Super quick and easy!",
+        "Great weeknight option."
+      ],
+      "link": "https://www.greatbritishchefs.com/recipes/sausage-tomato-mascarpone-pasta-recipe"
+    },
+    {
+      "id": 2,
+      "name": "Braciole",
+      "image": "https://www.gogogogourmet.com/wp-content/uploads/2015/11/Braciole-5-320x320.jpg",
+      "status": "repeat",
+      "effort": 4,
+      "meal": "dinner",
+      "notes": [
+        "Definitely for a more fancy occasion",
+        "Semi-expensive ingredients",
+        "Great option for Holiday get-togethers!"
+      ],
+      "link": "https://www.gogogogourmet.com/braciole/"
+    },
+    {
+      "id": 3,
+      "name": "Spicy Tomato Soup",
+      "image": "https://images.food52.com/5vTiX_ESTh3-p174oZHRSLjTzMA=/1320x880/filters:format(webp)/324a6cab-cc09-429a-82d8-014af50a7935--8335382876_871f57568d_z.jpeg",
+      "status": "repeat",
+      "effort": 2,
+      "meal": "dinner",
+      "notes": [
+        "Also great for lunch!"
+      ],
+      "link": "https://food52.com/recipes/20272-barbara-lynch-s-spicy-tomato-soup/amp"
+    },
+    {
+      "id": 4,
+      "name": "Eggroll in a Bowl",
+      "image": "https://40aprons.com/wp-content/uploads/2017/03/egg-roll-in-a-bowl-whole30-5.jpg",
+      "status": "repeat",
+      "effort": 3,
+      "meal": "lunch",
+      "notes": [
+        "So delicious!"
+      ],
+      "link": "https://40aprons.com/whole30-egg-roll-bowl-paleo/"
+    },
+    {
+      "id": 5,
+      "name": "Cookie Butter Cookies",
+      "image": "https://krollskorner.com/wp-content/uploads/2022/07/CookieButterCookies_blog16-7350.jpg",
+      "status": "try",
+      "effort": 3,
+      "meal": "dessert",
+      "notes": [],
+      "link": "https://krollskorner.com/recipes/desserts/cookie-butter-cookies/"
+    },
+    {
+      "id": 6,
+      "name": "Croissant Breakfast Sandwich",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2Farchive%2Fb3218cfc33905defa99e62af055b76e171aa4ec1",
+      "status": "meh",
+      "effort": 3,
+      "meal": "breakfast",
+      "notes": [
+        "These were OK.",
+        "Not sure if it was worth the effort",
+        "Can be made ahead in order to save time!"
+      ],
+      "link": "https://www.thekitchn.com/croissant-breakfast-sandwich-265098?utm_source=pinterest&utm_medium=tracking&utm_campaign=inline-img-share"
+    },
+    {
+      "id": 7,
+      "name": "Elote Corn Salad w/ Chile and Lime",
+      "image": "https://i0.wp.com/live.staticflickr.com/65535/48265932462_492d9ce276_z.jpg?resize=640%2C427&ssl=1",
+      "status": "repeat",
+      "effort": 2,
+      "meal": "side",
+      "notes": [
+        "So delicious!",
+        "Easy!"
+      ],
+      "link": "https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/"
+    },
+    {
+      "effort": "3",
+      "name": "Spinach and Artichoke Tuna Melts",
+      "notes": [
+        ""
+      ],
+      "status": "need to try it",
+      "meal": "lunch",
+      "image": "https://www.tasteandtellblog.com/wp-content/uploads/2012/08/Spinach-Artichoke-Tuna-Melts-recipe-taste-and-tell-1b.jpg",
+      "link": "https://www.tasteandtellblog.com/spinach-and-artichoke-tuna-melts-recipe/",
+      "id": 9
+    },
+    {
+      "effort": "3",
+      "name": "LEMON PESTO ZUCCHINI SANDWICH",
+      "notes": [
+        ""
+      ],
+      "status": "need to try it",
+      "meal": "lunch",
+      "image": "https://i0.wp.com/www.peanutbutterandpeppers.com/wp-content/uploads/2013/05/Lemon-Pesto-Zucchini-Hot-Sandwich-010a.jpg?w=1646&ssl=1",
+      "link": "https://www.peanutbutterandpeppers.com/2013/05/10/lemon-pesto-zucchini-sandwich/",
+      "id": 10
+    },
+    {
+      "effort": 4,
+      "name": "Garlicky Pasta with Swiss Chard and Beans",
+      "notes": [
+        ""
+      ],
+      "status": "Need to try it",
+      "meal": "dinner",
+      "image": "https://spoonacular.com/recipeImages/Garlicky-Pasta-with-Swiss-Chard-and-Beans-482788.jpg",
+      "link": "http://thelemonbowl.com/2012/08/garlicky-pasta-with-swiss-chard-and-beans-sundaysupper.html",
+      "id": 12
+    }
+  ]
+}
