@@ -13,7 +13,7 @@ When you are in the newly created directory run ``` json-server --watch db.json 
 
 Then run ```npm install && npm start ``` to download all dependencies and run the project on your local server. Since the back-end was deployed first, it will connect to localhost:3000 and your front end will ask to run on a different network. Click "Y" for "yes" and the page should deploy accordingly.
 
-**In order for the project to run properly, the back-end repo needs to be run on localhost:3000 while the front end runs on 3001.**
+**In order for the project to run properly, the back-end repo needs to be run on localhost:3000 while the front end runs on 3001. This should happen naturally if you run the commands in the order stated above.**
 
 ### Credentials
 This project's icon was provided courtesy of 'Those Icons' via [flaticon.com](https://www.flaticon.com/).
